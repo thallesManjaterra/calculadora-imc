@@ -1,0 +1,17 @@
+#calc-container h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-bottom: 1rem;
+}

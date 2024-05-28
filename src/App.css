@@ -1,0 +1,23 @@
+.container {
+  min-width: 400px;
+  min-height: 400px;
+  background: #1a1e33;
+  padding: 2rem;
+}
+
+.form-control label {
+  font-weight: bold;
+  margin-bottom: 0.6rem;
+  color: #ccc;
+}
+
+.form-control input {
+  padding: 1rem 0.5rem;
+}
+
+.action-control {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2rem;
+}
